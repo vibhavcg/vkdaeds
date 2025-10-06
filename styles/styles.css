@@ -11,30 +11,30 @@
  */
 
 :root {
-  /* colors */
-  --background-color: white;
-  --light-color: #f8f8f8;
-  --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
 
-  /* fonts */
-  --body-font-family: roboto, roboto-fallback, sans-serif;
-  --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
+/* fonts */
+--heading-font-family: "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+--body-font-family: "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+--fixed-font-family: "Roboto Mono", menlo, consolas, "Liberation Mono", monospace;
 
-  /* body sizes */
-  --body-font-size-m: 22px;
-  --body-font-size-s: 19px;
-  --body-font-size-xs: 17px;
+/* colors */
+--text-color: #ffffff;
+--link-color: #007bff;
+--link-hover-color: Invalid input color;
+--background-color: #ffffff;
+--overlay-background-color: #eeeeee;
+--highlight-background-color: #cccccc;
 
-  /* heading sizes */
-  --heading-font-size-xxl: 55px;
-  --heading-font-size-xl: 44px;
-  --heading-font-size-l: 34px;
-  --heading-font-size-m: 27px;
-  --heading-font-size-s: 24px;
-  --heading-font-size-xs: 22px;
+/* sizes */
+--heading-font-size-xxl: 64.5px;
+--heading-font-size-xl: 44.79px;
+--heading-font-size-l: 31.1px;
+--heading-font-size-m: 31.1px;
+--heading-font-size-s: 25.92px;
+--heading-font-size-xs: 21.6px;
+--body-font-size-m: 18px;
+--body-font-size-s: 16px;
+--body-font-size-xs: 15px;
 
   /* nav height */
   --nav-height: 64px;
